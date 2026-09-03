@@ -1,17 +1,19 @@
 about:
-  description: GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+  description:
+  |
+    GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
   license: MIT
   homepage: https://goaccess.io
   head: 5e6a1e4
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-03T05:10:05Z
+  collectedAt: 2026-09-03T22:38:31Z
 timeline:
   created: 2013-07-14
   lastCommit: 2026-09-03
-  lastRelease: ?
+  lastRelease: 
 popularity:
-  star: 20895
+  star: 20901
   watcher: 298
   fork: 1191
   release: 0
@@ -28,7 +30,7 @@ language:
   M4: 8730
   Dockerfile: 1069
   Shell: 477
-totalLine: 1596726
+totalBytes: 1596726
 recent:
   last30d:
     since: 2026-08-04

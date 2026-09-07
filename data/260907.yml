@@ -5,15 +5,15 @@ about:
   head: 5e6a1e4
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T05:52:39Z
+  collectedAt: 2026-09-07T18:42:27Z
 timeline:
   created: 2013-07-14
   lastCommit: 2026-09-03
   lastRelease: 
 popularity:
-  star: 20910
+  star: 20911
   watcher: 300
-  fork: 1192
+  fork: 1191
   release: 0
   contributor: 165
   pullRequest: 401
@@ -87,7 +87,7 @@ total:
   commit: 4491
 ---
 path: /home/runner/.x-repo/github.com/allinurl/goaccess
-collectedAt: 2026-09-07T05:52:41Z
+collectedAt: 2026-09-07T18:42:30Z
 loc:
   C:
     code: 29133
@@ -269,7 +269,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/docker-publish.yml:31'
 ---
 eget:
-  collectedAt: 2026-09-07T05:52:41+00:00
+  collectedAt: 2026-09-07T18:42:31+00:00
   platform:
     darwin/arm64:
       name:  null

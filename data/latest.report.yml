@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:53:52Z
+  collectedAt: 2026-09-09T20:15:31Z
 timeline:
   created: 2013-07-14
   lastCommit: 2026-09-03
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 20915
+  star: 20917
   watcher: 300
   fork: 1191
   release: 0
@@ -91,7 +91,7 @@ total:
   commit: 4491
 ---
 path: /home/runner/.x-repo/github.com/allinurl/goaccess
-collectedAt: 2026-09-09T05:53:54Z
+collectedAt: 2026-09-09T20:15:34Z
 loc:
   C:
     code: 29133

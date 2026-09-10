@@ -4,7 +4,7 @@
 
 GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
-![goaccess](https://repo.x-cmd.io/goaccess.svg)
+![goaccess](https://repo.x-cmd.io/goaccess.svg?lang=zh)
 
 ## 安装
 
@@ -12,36 +12,14 @@ GoAccess is a real-time web log analyzer and interactive viewer that runs in a t
 x install goaccess
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/allinurl/goaccess>
-- **官网**: <https://goaccess.io>
-- **许可证**: MIT
-
-## 流行度
-
-- **Star**: 20,917 · **Fork**: 1,191 · **开放 issue**: 2,461 · **贡献者**: 165
-
-## 累计统计
-
-- **发布数**: 0 · **已合并 PR**: 348 · **开放 PR**: 12 · **已关闭 issue**: 2024 · **开放 issue**: 437 · **提交数**: 4492
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 1 | 2 | 27 |
-| 90d | 2026-06-12 | 0 | 3 | 1 | 7 | 5 | 46 |
-| 360d | 2025-09-15 | 0 | 11 | 2 | 40 | 22 | 131 |
-
 ## 代码规模
 
-合计: **38,371** 行代码（覆盖前 5 种语言、共 **94** 个文件）。
+合计: **38,398** 行代码（覆盖前 5 种语言、共 **94** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | C | 29,133 | 6,034 | 5,206 | 42 |
-| JavaScript | 3,508 | 365 | 631 | 6 |
+| JavaScript | 3,535 | 370 | 637 | 6 |
 | CHeader | 3,321 | 1,688 | 606 | 42 |
 | Css | 1,890 | 62 | 307 | 3 |
 | Automake | 261 | 12 | 23 | 1 |
@@ -56,6 +34,50 @@ x install goaccess
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## 源代码
+
+- **上游仓库**: <https://github.com/allinurl/goaccess>
+- **官网**: <https://goaccess.io>
+- **许可证**: MIT
+
+## 流行度
+
+- **Star**: 20,918 · **Fork**: 1,191 · **开放 issue**: 2,461 · **贡献者**: 165
+
+## 累计统计
+
+- **发布数**: 0 · **已合并 PR**: 348 · **开放 PR**: 12 · **已关闭 issue**: 2024 · **开放 issue**: 437 · **提交数**: 4493
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 1 | 1 | 2 | 28 |
+| last60d | 2026-07-12 | 0 | 3 | 1 | 6 | 3 | 45 |
+| 90d | 2026-06-12 | 0 | 3 | 1 | 7 | 5 | 47 |
+| last180d | 2026-03-14 | 0 | 6 | 2 | 22 | 13 | 67 |
+| 360d | 2025-09-15 | 0 | 11 | 2 | 40 | 22 | 132 |
+| last720d | 2024-09-20 | 0 | 31 | 4 | 115 | 73 | 256 |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/goaccess) 上共有 **131** 个发行版报告此项目。**29** 个 ✅ 已是最新上游版本，**90** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `1.11` | ✅ latest |
+| Debian 14 | `1.11` | ✅ latest |
+| Debian 13 | `1.9.3` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.9.4` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.8.1` | ⚠️ outdated |
+| Arch | `1.11` | ✅ latest |
+| Homebrew | `1.11` | ✅ latest |
+| Fedora rawhide | `1.11` | ✅ latest |
+| Nix unstable | `1.11` | ✅ latest |
+| Void | `1.9.3` | ⚠️ outdated |
+| Alpine edge | `1.10.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.11` | ✅ latest |
+
 ## 改进这些数据
 
 goaccess 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `goaccess` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -65,4 +87,4 @@ goaccess 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:57:22Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:31:53Z._

@@ -1,0 +1,68 @@
+# goaccess
+
+[English version](./README.md)
+
+GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+
+![goaccess](https://repo.x-cmd.io/goaccess.svg)
+
+## 安装
+
+```sh
+x install goaccess
+```
+
+## 源代码
+
+- **上游仓库**: <https://github.com/allinurl/goaccess>
+- **官网**: <https://goaccess.io>
+- **许可证**: MIT
+
+## 流行度
+
+- **Star**: 20,917 · **Fork**: 1,191 · **开放 issue**: 2,461 · **贡献者**: 165
+
+## 累计统计
+
+- **发布数**: 0 · **已合并 PR**: 348 · **开放 PR**: 12 · **已关闭 issue**: 2024 · **开放 issue**: 437 · **提交数**: 4492
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 1 | 1 | 2 | 27 |
+| 90d | 2026-06-12 | 0 | 3 | 1 | 7 | 5 | 46 |
+| 360d | 2025-09-15 | 0 | 11 | 2 | 40 | 22 | 131 |
+
+## 代码规模
+
+合计: **38,371** 行代码（覆盖前 5 种语言、共 **94** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| C | 29,133 | 6,034 | 5,206 | 42 |
+| JavaScript | 3,508 | 365 | 631 | 6 |
+| CHeader | 3,321 | 1,688 | 606 | 42 |
+| Css | 1,890 | 62 | 307 | 3 |
+| Automake | 261 | 12 | 23 | 1 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **5.5 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (1/10) — Found 3/29 approved changesets -- score normalized to 1
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
+## 改进这些数据
+
+goaccess 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `goaccess` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
+
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/goaccess.yml>（或索引实际使用的路径）
+
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
+
+_数据快照: `data/card/260910.yml` · 2026-09-10T05:57:22Z._

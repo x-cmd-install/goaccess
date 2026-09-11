@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 20,918 · **Forks**: 1,191 · **Open issues**: 2,461 · **Contributors**: 165
+- **Stars**: 20,918 · **Forks**: 1,192 · **Open issues**: 2,461 · **Contributors**: 165
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 1 | 2 | 28 |
-| last60d | 2026-07-12 | 0 | 3 | 1 | 6 | 3 | 45 |
-| 90d | 2026-06-12 | 0 | 3 | 1 | 7 | 5 | 47 |
-| last180d | 2026-03-14 | 0 | 6 | 2 | 22 | 13 | 67 |
-| 360d | 2025-09-15 | 0 | 11 | 2 | 40 | 22 | 132 |
-| last720d | 2024-09-20 | 0 | 31 | 4 | 115 | 73 | 256 |
+| 30d | 2026-08-12 | 0 | 0 | 1 | 1 | 2 | 28 |
+| last60d | 2026-07-13 | 0 | 3 | 1 | 6 | 3 | 45 |
+| 90d | 2026-06-13 | 0 | 3 | 1 | 7 | 5 | 47 |
+| last180d | 2026-03-15 | 0 | 6 | 2 | 22 | 13 | 67 |
+| 360d | 2025-09-16 | 0 | 11 | 2 | 40 | 22 | 132 |
+| last720d | 2024-09-21 | 0 | 31 | 4 | 115 | 70 | 256 |
 
 ## Distribution status
 
@@ -87,4 +87,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:16:56Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:52:38Z._

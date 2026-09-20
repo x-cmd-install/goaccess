@@ -4,7 +4,7 @@
 
 GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
-![goaccess](https://repo.x-cmd.io/goaccess.svg)
+[![x-cmd/install — goaccess Code Quality Monitoring Repo Card](https://repo.x-cmd.io/goaccess.svg)](https://x-cmd.com/install/goaccess)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install goaccess
 
 ## Code insight
 
-Total: **38,382** lines of code across **94** files in the top 5 languages.
+Total: **38,397** lines of code across **94** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 29,119 | 6,036 | 5,210 | 42 |
+| C | 29,131 | 6,055 | 5,222 | 42 |
 | JavaScript | 3,535 | 370 | 637 | 6 |
-| CHeader | 3,320 | 1,688 | 606 | 42 |
+| CHeader | 3,323 | 1,688 | 606 | 42 |
 | Css | 1,890 | 62 | 307 | 3 |
 | Automake | 261 | 12 | 23 | 1 |
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 20,932 · **Forks**: 1,193 · **Open issues**: 2,462 · **Contributors**: 165
+- **Stars**: 20,939 · **Forks**: 1,193 · **Open issues**: 2,463 · **Contributors**: 165
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 348 · **Open PRs**: 12 · **Closed issues**: 2025 · **Open issues**: 437 · **Commits**: 4504
+- **Releases**: 0 · **Merged PRs**: 348 · **Open PRs**: 12 · **Closed issues**: 2026 · **Open issues**: 437 · **Commits**: 4505
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 2 | 2 | 34 |
-| last60d | 2026-07-20 | 0 | 2 | 1 | 4 | 3 | 41 |
-| 90d | 2026-06-20 | 0 | 3 | 1 | 8 | 4 | 56 |
-| last180d | 2026-03-22 | 0 | 6 | 2 | 20 | 13 | 78 |
-| 360d | 2025-09-23 | 0 | 11 | 2 | 40 | 22 | 143 |
-| last720d | 2024-09-28 | 0 | 31 | 4 | 113 | 64 | 267 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 3 | 2 | 35 |
+| last60d | 2026-07-22 | 0 | 2 | 1 | 5 | 3 | 42 |
+| 90d | 2026-06-22 | 0 | 3 | 1 | 9 | 4 | 57 |
+| last180d | 2026-03-24 | 0 | 6 | 2 | 21 | 13 | 79 |
+| 360d | 2025-09-25 | 0 | 11 | 2 | 41 | 22 | 144 |
+| last720d | 2024-09-30 | 0 | 31 | 4 | 114 | 63 | 268 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:01:45Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:04:56Z._

@@ -4,7 +4,7 @@
 
 GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
-![goaccess](https://repo.x-cmd.io/goaccess.svg?lang=zh)
+[![x-cmd/install — goaccess Code Quality Monitoring Repo Card](https://repo.x-cmd.io/goaccess.svg?lang=zh)](https://x-cmd.com/install/goaccess)
 
 ## 安装
 
@@ -14,13 +14,13 @@ x install goaccess
 
 ## 代码洞察
 
-合计: **38,382** 行代码（覆盖前 5 种语言、共 **94** 个文件）。
+合计: **38,397** 行代码（覆盖前 5 种语言、共 **94** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| C | 29,119 | 6,036 | 5,210 | 42 |
+| C | 29,131 | 6,055 | 5,222 | 42 |
 | JavaScript | 3,535 | 370 | 637 | 6 |
-| CHeader | 3,320 | 1,688 | 606 | 42 |
+| CHeader | 3,323 | 1,688 | 606 | 42 |
 | Css | 1,890 | 62 | 307 | 3 |
 | Automake | 261 | 12 | 23 | 1 |
 
@@ -42,22 +42,22 @@ x install goaccess
 
 ## 流行度
 
-- **Star**: 20,932 · **Fork**: 1,193 · **开放 issue**: 2,462 · **贡献者**: 165
+- **Star**: 20,939 · **Fork**: 1,193 · **开放 issue**: 2,463 · **贡献者**: 165
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 348 · **开放 PR**: 12 · **已关闭 issue**: 2025 · **开放 issue**: 437 · **提交数**: 4504
+- **发布数**: 0 · **已合并 PR**: 348 · **开放 PR**: 12 · **已关闭 issue**: 2026 · **开放 issue**: 437 · **提交数**: 4505
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 2 | 2 | 34 |
-| last60d | 2026-07-20 | 0 | 2 | 1 | 4 | 3 | 41 |
-| 90d | 2026-06-20 | 0 | 3 | 1 | 8 | 4 | 56 |
-| last180d | 2026-03-22 | 0 | 6 | 2 | 20 | 13 | 78 |
-| 360d | 2025-09-23 | 0 | 11 | 2 | 40 | 22 | 143 |
-| last720d | 2024-09-28 | 0 | 31 | 4 | 113 | 64 | 267 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 3 | 2 | 35 |
+| last60d | 2026-07-22 | 0 | 2 | 1 | 5 | 3 | 42 |
+| 90d | 2026-06-22 | 0 | 3 | 1 | 9 | 4 | 57 |
+| last180d | 2026-03-24 | 0 | 6 | 2 | 21 | 13 | 79 |
+| 360d | 2025-09-25 | 0 | 11 | 2 | 41 | 22 | 144 |
+| last720d | 2024-09-30 | 0 | 31 | 4 | 114 | 63 | 268 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ goaccess 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:01:45Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:04:57Z._

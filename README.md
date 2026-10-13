@@ -30,8 +30,8 @@ Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **SAST** (0/10) — no SAST tool detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,030 · **Forks**: 1,202 · **Open issues**: 2,466 · **Contributors**: 165
+- **Stars**: 21,041 · **Forks**: 1,202 · **Open issues**: 2,466 · **Contributors**: 165
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 0 | 3 | 2 | 6 |
-| last60d | 2026-08-13 | 0 | 0 | 1 | 5 | 3 | 42 |
-| 90d | 2026-07-14 | 0 | 3 | 1 | 8 | 4 | 47 |
-| last180d | 2026-04-15 | 0 | 5 | 2 | 20 | 14 | 68 |
-| 360d | 2025-10-17 | 0 | 11 | 2 | 42 | 21 | 149 |
-| last720d | 2024-10-22 | 0 | 30 | 4 | 114 | 58 | 272 |
+| 30d | 2026-09-13 | 0 | 0 | 0 | 3 | 2 | 6 |
+| last60d | 2026-08-14 | 0 | 0 | 1 | 5 | 3 | 42 |
+| 90d | 2026-07-15 | 0 | 2 | 1 | 8 | 4 | 47 |
+| last180d | 2026-04-16 | 0 | 5 | 2 | 20 | 14 | 68 |
+| 360d | 2025-10-18 | 0 | 11 | 2 | 42 | 21 | 149 |
+| last720d | 2024-10-23 | 0 | 30 | 4 | 114 | 58 | 272 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:06:34Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:00:32Z._

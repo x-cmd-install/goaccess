@@ -14,11 +14,11 @@ x install goaccess
 
 ## Code insight
 
-Total: **38,758** lines of code across **96** files in the top 5 languages.
+Total: **38,761** lines of code across **96** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 29,462 | 6,175 | 5,305 | 43 |
+| C | 29,465 | 6,180 | 5,306 | 43 |
 | JavaScript | 3,535 | 370 | 637 | 6 |
 | CHeader | 3,349 | 1,723 | 615 | 43 |
 | Css | 1,890 | 62 | 307 | 3 |
@@ -30,9 +30,9 @@ Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
-- **SAST** (0/10) — no SAST tool detected
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 2/29 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,063 · **Forks**: 1,315 · **Open issues**: 2,466 · **Contributors**: 166
+- **Stars**: 21,063 · **Forks**: 1,215 · **Open issues**: 2,466 · **Contributors**: 166
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 350 · **Open PRs**: 12 · **Closed issues**: 2028 · **Open issues**: 438 · **Commits**: 4517
+- **Releases**: 0 · **Merged PRs**: 350 · **Open PRs**: 12 · **Closed issues**: 2028 · **Open issues**: 438 · **Commits**: 4519
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 2 | 0 | 2 | 2 | 10 |
-| last60d | 2026-08-21 | 0 | 2 | 1 | 6 | 3 | 47 |
-| 90d | 2026-07-22 | 0 | 4 | 1 | 8 | 4 | 54 |
-| last180d | 2026-04-23 | 0 | 7 | 2 | 19 | 13 | 74 |
-| 360d | 2025-10-25 | 0 | 12 | 2 | 43 | 19 | 154 |
-| last720d | 2024-10-30 | 0 | 30 | 4 | 110 | 55 | 279 |
+| 30d | 2026-09-21 | 0 | 2 | 0 | 2 | 2 | 12 |
+| last60d | 2026-08-22 | 0 | 2 | 0 | 5 | 3 | 49 |
+| 90d | 2026-07-23 | 0 | 4 | 1 | 8 | 4 | 56 |
+| last180d | 2026-04-24 | 0 | 7 | 2 | 19 | 13 | 76 |
+| 360d | 2025-10-26 | 0 | 12 | 2 | 43 | 19 | 156 |
+| last720d | 2024-10-31 | 0 | 30 | 4 | 110 | 55 | 280 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:53:39Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:40:50Z._

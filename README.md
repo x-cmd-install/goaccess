@@ -14,11 +14,11 @@ x install goaccess
 
 ## Code insight
 
-Total: **38,761** lines of code across **96** files in the top 5 languages.
+Total: **38,794** lines of code across **96** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 29,465 | 6,180 | 5,306 | 43 |
+| C | 29,498 | 6,186 | 5,313 | 43 |
 | JavaScript | 3,535 | 370 | 637 | 6 |
 | CHeader | 3,349 | 1,723 | 615 | 43 |
 | Css | 1,890 | 62 | 307 | 3 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,086 · **Forks**: 1,206 · **Open issues**: 2,470 · **Contributors**: 166
+- **Stars**: 21,091 · **Forks**: 1,206 · **Open issues**: 2,470 · **Contributors**: 167
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 350 · **Open PRs**: 13 · **Closed issues**: 2028 · **Open issues**: 442 · **Commits**: 4519
+- **Releases**: 0 · **Merged PRs**: 351 · **Open PRs**: 11 · **Closed issues**: 2032 · **Open issues**: 438 · **Commits**: 4522
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 2 | 1 | 1 | 6 | 9 |
-| last60d | 2026-08-28 | 0 | 2 | 1 | 5 | 7 | 31 |
-| 90d | 2026-07-29 | 0 | 4 | 2 | 6 | 8 | 56 |
-| last180d | 2026-04-30 | 0 | 7 | 3 | 19 | 15 | 76 |
-| 360d | 2025-11-01 | 0 | 12 | 3 | 42 | 22 | 156 |
-| last720d | 2024-11-06 | 0 | 30 | 5 | 110 | 58 | 280 |
+| 30d | 2026-09-28 | 0 | 2 | 0 | 4 | 2 | 11 |
+| last60d | 2026-08-29 | 0 | 2 | 0 | 7 | 3 | 33 |
+| 90d | 2026-07-30 | 0 | 4 | 1 | 9 | 5 | 58 |
+| last180d | 2026-05-01 | 0 | 8 | 1 | 22 | 12 | 79 |
+| 360d | 2025-11-02 | 0 | 13 | 1 | 45 | 19 | 159 |
+| last720d | 2024-11-07 | 0 | 31 | 3 | 113 | 55 | 283 |
 
 ## Distribution status
 
@@ -87,4 +87,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:01:22Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:39:13Z._

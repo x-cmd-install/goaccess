@@ -63,6 +63,20 @@
     - fabian@affolter-engineering.ch
   licenses:
     - MIT
+- repo: kali_rolling
+  subrepo: main
+  srcname: goaccess
+  binnames:
+    - goaccess
+  visiblename: goaccess
+  version: "1.11"
+  origversion: 1:1.11-1
+  status: outdated
+  maintainers:
+    - terceiro@debian.org
+    - ctaylor@debian.org
+  categories:
+    - utils
 - repo: alpine_3_18
   subrepo: main
   srcname: goaccess
@@ -271,6 +285,17 @@
     - cielesti@protonmail.com
   licenses:
     - MIT
+- repo: chimera
+  subrepo: user
+  srcname: goaccess
+  binname: goaccess-locale
+  visiblename: goaccess-locale
+  version: "1.12"
+  origversion: 1.12-r0
+  status: newest
+  summary: Web log analyzer and interactive viewer (locale data)
+  licenses:
+    - MIT
 - repo: alpine_3_24
   subrepo: main
   srcname: goaccess
@@ -282,17 +307,6 @@
   summary: Real-time web log analyzer and interactive viewer
   maintainers:
     - sodahiya@gmail.com
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: goaccess
-  binname: goaccess-man
-  visiblename: goaccess-man
-  version: "1.12"
-  origversion: 1.12-r0
-  status: newest
-  summary: Web log analyzer and interactive viewer (manual pages)
   licenses:
     - MIT
 - repo: alpine_3_24
@@ -440,12 +454,12 @@
 - repo: chimera
   subrepo: user
   srcname: goaccess
-  binname: goaccess-locale
-  visiblename: goaccess-locale
+  binname: goaccess-man
+  visiblename: goaccess-man
   version: "1.12"
   origversion: 1.12-r0
   status: newest
-  summary: Web log analyzer and interactive viewer (locale data)
+  summary: Web log analyzer and interactive viewer (manual pages)
   licenses:
     - MIT
 - repo: chromebrew
@@ -645,22 +659,6 @@
   categories:
     - Unspecified
 - repo: fedora_39
-  subrepo: release
-  srcname: goaccess
-  binnames:
-    - goaccess
-    - goaccess-debuginfo
-    - goaccess-debugsource
-  visiblename: goaccess
-  version: 1.7.2
-  origversion: 1.7.2-2.fc39
-  status: legacy
-  summary: Real-time web log analyzer and interactive viewer
-  licenses:
-    - GPLv2+
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: updates
   srcname: goaccess
   binnames:
@@ -671,6 +669,22 @@
   version: 1.9.3
   origversion: 1.9.3-1.fc39
   status: outdated
+  summary: Real-time web log analyzer and interactive viewer
+  licenses:
+    - GPLv2+
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: release
+  srcname: goaccess
+  binnames:
+    - goaccess
+    - goaccess-debuginfo
+    - goaccess-debugsource
+  visiblename: goaccess
+  version: 1.7.2
+  origversion: 1.7.2-2.fc39
+  status: legacy
   summary: Real-time web log analyzer and interactive viewer
   licenses:
     - GPLv2+
@@ -709,20 +723,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: updates
-  srcname: goaccess
-  binnames:
-    - goaccess
-  visiblename: goaccess
-  version: 1.9.4
-  origversion: 1.9.4-1.fc41
-  status: outdated
-  summary: Real-time web log analyzer and interactive viewer
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: release
   srcname: goaccess
   binnames:
@@ -734,6 +734,20 @@
   summary: Real-time web log analyzer and interactive viewer
   licenses:
     - GPLv2+
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: goaccess
+  binnames:
+    - goaccess
+  visiblename: goaccess
+  version: 1.9.4
+  origversion: 1.9.4-1.fc41
+  status: outdated
+  summary: Real-time web log analyzer and interactive viewer
+  licenses:
+    - GPL-2.0-or-later
   categories:
     - Unspecified
 - repo: fedora_42
@@ -750,20 +764,6 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
-- repo: parrot
-  subrepo: parrot/main
-  srcname: goaccess
-  binnames:
-    - goaccess
-  visiblename: goaccess
-  version: 1.9.3
-  origversion: 1:1.9.3-1+deb13u1
-  status: outdated
-  maintainers:
-    - terceiro@debian.org
-    - ctaylor@debian.org
-  categories:
-    - utils
 - repo: fedora_42
   subrepo: release
   srcname: goaccess
@@ -779,20 +779,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: goaccess
-  binnames:
-    - goaccess
-  visiblename: goaccess
-  version: "1.11"
-  origversion: 1.11-1.fc43
-  status: outdated
-  summary: Real-time web log analyzer and interactive viewer
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: release
   srcname: goaccess
   binnames:
@@ -801,6 +787,20 @@
   version: 1.9.4
   origversion: 1.9.4-2.fc43
   status: legacy
+  summary: Real-time web log analyzer and interactive viewer
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: goaccess
+  binnames:
+    - goaccess
+  visiblename: goaccess
+  version: "1.11"
+  origversion: 1.11-1.fc43
+  status: outdated
   summary: Real-time web log analyzer and interactive viewer
   licenses:
     - GPL-2.0-or-later
@@ -924,20 +924,6 @@
   origversion: null
   status: rolling
   summary: Log analyzer and interactive viewer for the Apache Webserver
-- repo: kali_rolling
-  subrepo: main
-  srcname: goaccess
-  binnames:
-    - goaccess
-  visiblename: goaccess
-  version: "1.11"
-  origversion: 1:1.11-1
-  status: outdated
-  maintainers:
-    - terceiro@debian.org
-    - ctaylor@debian.org
-  categories:
-    - utils
 - repo: liguros_stable
   srcname: net-analyzer/goaccess
   visiblename: net-analyzer/goaccess
@@ -1324,6 +1310,20 @@
     - utils
 - repo: parrot
   subrepo: parrot-updates/main
+  srcname: goaccess
+  binnames:
+    - goaccess
+  visiblename: goaccess
+  version: 1.9.3
+  origversion: 1:1.9.3-1+deb13u1
+  status: outdated
+  maintainers:
+    - terceiro@debian.org
+    - ctaylor@debian.org
+  categories:
+    - utils
+- repo: parrot
+  subrepo: parrot/main
   srcname: goaccess
   binnames:
     - goaccess

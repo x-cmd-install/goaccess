@@ -14,13 +14,13 @@ x install goaccess
 
 ## Code insight
 
-Total: **38,794** lines of code across **96** files in the top 5 languages.
+Total: **38,793** lines of code across **96** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 29,498 | 6,186 | 5,313 | 43 |
+| C | 29,496 | 6,191 | 5,313 | 43 |
 | JavaScript | 3,535 | 370 | 637 | 6 |
-| CHeader | 3,349 | 1,723 | 615 | 43 |
+| CHeader | 3,350 | 1,723 | 615 | 43 |
 | Css | 1,890 | 62 | 307 | 3 |
 | Automake | 265 | 12 | 23 | 1 |
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,091 · **Forks**: 1,206 · **Open issues**: 2,470 · **Contributors**: 167
+- **Stars**: 21,095 · **Forks**: 1,208 · **Open issues**: 2,470 · **Contributors**: 167
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 351 · **Open PRs**: 11 · **Closed issues**: 2032 · **Open issues**: 438 · **Commits**: 4522
+- **Releases**: 0 · **Merged PRs**: 351 · **Open PRs**: 11 · **Closed issues**: 2032 · **Open issues**: 438 · **Commits**: 4523
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 2 | 0 | 4 | 2 | 11 |
-| last60d | 2026-08-29 | 0 | 2 | 0 | 7 | 3 | 33 |
-| 90d | 2026-07-30 | 0 | 4 | 1 | 9 | 5 | 58 |
-| last180d | 2026-05-01 | 0 | 8 | 1 | 22 | 12 | 79 |
-| 360d | 2025-11-02 | 0 | 13 | 1 | 45 | 19 | 159 |
-| last720d | 2024-11-07 | 0 | 31 | 3 | 113 | 55 | 283 |
+| 30d | 2026-09-29 | 0 | 2 | 0 | 4 | 2 | 12 |
+| last60d | 2026-08-30 | 0 | 2 | 0 | 7 | 3 | 34 |
+| 90d | 2026-07-31 | 0 | 4 | 1 | 9 | 5 | 59 |
+| last180d | 2026-05-02 | 0 | 8 | 1 | 22 | 12 | 80 |
+| 360d | 2025-11-03 | 0 | 13 | 1 | 45 | 19 | 160 |
+| last720d | 2024-11-08 | 0 | 31 | 3 | 112 | 55 | 284 |
 
 ## Distribution status
 
@@ -87,4 +87,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:39:13Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:46:40Z._

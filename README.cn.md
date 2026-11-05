@@ -26,11 +26,11 @@ x install goaccess
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.4 / 10**
+总评分: **5.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 2/29 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 3/29 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,7 +42,7 @@ x install goaccess
 
 ## 流行度
 
-- **Star**: 21,114 · **Fork**: 1,210 · **开放 issue**: 2,470 · **贡献者**: 167
+- **Star**: 21,118 · **Fork**: 1,210 · **开放 issue**: 2,470 · **贡献者**: 167
 
 ## 累计统计
 
@@ -52,16 +52,16 @@ x install goaccess
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 2 | 0 | 4 | 1 | 12 |
-| last60d | 2026-09-05 | 0 | 2 | 0 | 7 | 3 | 31 |
-| 90d | 2026-08-06 | 0 | 2 | 1 | 9 | 5 | 57 |
-| last180d | 2026-05-08 | 0 | 8 | 1 | 20 | 12 | 80 |
-| 360d | 2025-11-09 | 0 | 13 | 1 | 45 | 19 | 160 |
-| last720d | 2024-11-14 | 0 | 31 | 3 | 109 | 55 | 284 |
+| 30d | 2026-10-06 | 0 | 2 | 0 | 4 | 1 | 12 |
+| last60d | 2026-09-06 | 0 | 2 | 0 | 7 | 3 | 31 |
+| 90d | 2026-08-07 | 0 | 2 | 1 | 9 | 5 | 57 |
+| last180d | 2026-05-09 | 0 | 8 | 1 | 20 | 12 | 80 |
+| 360d | 2025-11-10 | 0 | 13 | 1 | 45 | 19 | 160 |
+| last720d | 2024-11-15 | 0 | 31 | 3 | 109 | 55 | 284 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/goaccess) 上共有 **131** 个发行版报告此项目。**26** 个 ✅ 已是最新上游版本，**93** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/goaccess) 上共有 **132** 个发行版报告此项目。**27** 个 ✅ 已是最新上游版本，**93** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -87,4 +87,4 @@ goaccess 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T07:33:29Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:47:28Z._

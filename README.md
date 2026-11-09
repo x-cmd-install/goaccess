@@ -14,15 +14,15 @@ x install goaccess
 
 ## Code insight
 
-Total: **38,793** lines of code across **96** files in the top 5 languages.
+Total: **39,334** lines of code across **104** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 29,496 | 6,191 | 5,313 | 43 |
+| C | 29,984 | 6,326 | 5,392 | 47 |
 | JavaScript | 3,535 | 370 | 637 | 6 |
-| CHeader | 3,350 | 1,723 | 615 | 43 |
+| CHeader | 3,395 | 1,785 | 635 | 47 |
 | Css | 1,890 | 62 | 307 | 3 |
-| Automake | 265 | 12 | 23 | 1 |
+| Automake | 273 | 12 | 23 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,122 · **Forks**: 1,210 · **Open issues**: 2,470 · **Contributors**: 167
+- **Stars**: 21,124 · **Forks**: 1,210 · **Open issues**: 2,470 · **Contributors**: 167
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 351 · **Open PRs**: 12 · **Closed issues**: 2032 · **Open issues**: 438 · **Commits**: 4523
+- **Releases**: 0 · **Merged PRs**: 351 · **Open PRs**: 12 · **Closed issues**: 2032 · **Open issues**: 438 · **Commits**: 4525
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 2 | 1 | 4 | 1 | 12 |
-| last60d | 2026-09-09 | 0 | 2 | 1 | 7 | 3 | 31 |
-| 90d | 2026-08-10 | 0 | 2 | 2 | 9 | 4 | 57 |
-| last180d | 2026-05-12 | 0 | 8 | 2 | 20 | 12 | 80 |
-| 360d | 2025-11-13 | 0 | 13 | 2 | 45 | 19 | 160 |
-| last720d | 2024-11-18 | 0 | 31 | 4 | 109 | 55 | 284 |
+| 30d | 2026-10-10 | 0 | 2 | 1 | 4 | 1 | 11 |
+| last60d | 2026-09-10 | 0 | 2 | 1 | 7 | 3 | 20 |
+| 90d | 2026-08-11 | 0 | 2 | 2 | 9 | 4 | 59 |
+| last180d | 2026-05-13 | 0 | 8 | 2 | 20 | 12 | 82 |
+| 360d | 2025-11-14 | 0 | 13 | 2 | 45 | 19 | 162 |
+| last720d | 2024-11-19 | 0 | 30 | 4 | 108 | 55 | 286 |
 
 ## Distribution status
 
@@ -87,4 +87,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:12:00Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:33:20Z._

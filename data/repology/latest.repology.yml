@@ -1,61 +1,5 @@
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: goaccess
-  binnames:
-    - goaccess
-  visiblename: goaccess
-  version: 1.9.3
-  origversion: 1:1.9.3-1+deb13u1
-  status: outdated
-  maintainers:
-    - terceiro@debian.org
-    - ctaylor@debian.org
-  categories:
-    - utils
-- repo: raspbian_oldstable
+- repo: kali_rolling
   subrepo: main
-  srcname: goaccess
-  binnames:
-    - goaccess
-  visiblename: goaccess
-  version: "1.7"
-  origversion: 1:1.7-1
-  status: outdated
-  maintainers:
-    - ctaylor@debian.org
-    - terceiro@debian.org
-  categories:
-    - utils
-- repo: raspbian_stable
-  subrepo: main
-  srcname: goaccess
-  binnames:
-    - goaccess
-  visiblename: goaccess
-  version: 1.9.3
-  origversion: 1:1.9.3-1+deb13u1
-  status: outdated
-  maintainers:
-    - terceiro@debian.org
-    - ctaylor@debian.org
-  categories:
-    - utils
-- repo: raspbian_testing
-  subrepo: main
-  srcname: goaccess
-  binnames:
-    - goaccess
-  visiblename: goaccess
-  version: 1.9.4
-  origversion: 1:1.9.4-1
-  status: outdated
-  maintainers:
-    - terceiro@debian.org
-    - ctaylor@debian.org
-  categories:
-    - utils
-- repo: devuan_unstable
-  subrepo: unstable/main
   srcname: goaccess
   binnames:
     - goaccess
@@ -367,15 +311,6 @@
     - sodahiya@gmail.com
   licenses:
     - MIT
-- repo: chromebrew
-  srcname: goaccess
-  visiblename: goaccess
-  version: "1.12"
-  origversion: null
-  status: newest
-  summary: GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-  licenses:
-    - MIT
 - repo: alpine_3_24
   subrepo: main
   srcname: goaccess
@@ -389,6 +324,20 @@
     - sodahiya@gmail.com
   licenses:
     - MIT
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: goaccess
+  binnames:
+    - goaccess
+  visiblename: goaccess
+  version: "1.7"
+  origversion: 1:1.7-1
+  status: outdated
+  maintainers:
+    - ctaylor@debian.org
+    - terceiro@debian.org
+  categories:
+    - utils
 - repo: alpine_edge
   subrepo: main
   srcname: goaccess
@@ -527,18 +476,15 @@
   summary: Web log analyzer and interactive viewer (manual pages)
   licenses:
     - MIT
-- repo: openbsd
-  srcname: www/goaccess
-  binname: goaccess
-  visiblename: www/goaccess
+- repo: chromebrew
+  srcname: goaccess
+  visiblename: goaccess
   version: "1.12"
-  origversion: 1.12p0
+  origversion: null
   status: newest
-  summary: realtime console web log analyzer
-  maintainers:
-    - kirby@openbsd.org
-  categories:
-    - www
+  summary: GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+  licenses:
+    - MIT
 - repo: debian_11
   subrepo: bullseye/main
   srcname: goaccess
@@ -547,20 +493,6 @@
   visiblename: goaccess
   version: "1.4"
   origversion: 1:1.4-1
-  status: outdated
-  maintainers:
-    - ctaylor@debian.org
-    - terceiro@debian.org
-  categories:
-    - utils
-- repo: debian_12
-  subrepo: bookworm/main
-  srcname: goaccess
-  binnames:
-    - goaccess
-  visiblename: goaccess
-  version: "1.7"
-  origversion: 1:1.7-1
   status: outdated
   maintainers:
     - ctaylor@debian.org
@@ -649,17 +581,20 @@
     - terceiro@debian.org
   categories:
     - utils
-- repo: epel_6
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: goaccess
+  binnames:
+    - goaccess
   visiblename: goaccess
-  version: "1.2"
-  origversion: 1.2-1.el6
+  version: "1.11"
+  origversion: 1:1.11-1
   status: outdated
-  summary: Real-time web log analyzer and interactive viewer
-  licenses:
-    - GPLv2+
+  maintainers:
+    - terceiro@debian.org
+    - ctaylor@debian.org
   categories:
-    - Unspecified
+    - utils
 - repo: epel_7
   srcname: goaccess
   visiblename: goaccess
@@ -712,17 +647,6 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
-- repo: openindiana
-  subrepo: hipster
-  srcname: goaccess
-  binname: web/goaccess
-  visiblename: goaccess
-  version: 1.4.3
-  origversion: null
-  status: outdated
-  summary: GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-  categories:
-    - Web Services/Application and Web Servers
 - repo: fedora_39
   subrepo: release
   srcname: goaccess
@@ -872,20 +796,6 @@
   categories:
     - Unspecified
 - repo: fedora_44
-  subrepo: updates
-  srcname: goaccess
-  binnames:
-    - goaccess
-  visiblename: goaccess
-  version: "1.11"
-  origversion: 1.11-1.fc44
-  status: outdated
-  summary: Real-time web log analyzer and interactive viewer
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_44
   subrepo: release
   srcname: goaccess
   binnames:
@@ -894,6 +804,20 @@
   version: 1.10.1
   origversion: 1.10.1-1.fc44
   status: legacy
+  summary: Real-time web log analyzer and interactive viewer
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: updates
+  srcname: goaccess
+  binnames:
+    - goaccess
+  visiblename: goaccess
+  version: "1.11"
+  origversion: 1.11-1.fc44
+  status: outdated
   summary: Real-time web log analyzer and interactive viewer
   licenses:
     - GPL-2.0-or-later
@@ -989,20 +913,6 @@
   origversion: null
   status: rolling
   summary: Log analyzer and interactive viewer for the Apache Webserver
-- repo: kali_rolling
-  subrepo: main
-  srcname: goaccess
-  binnames:
-    - goaccess
-  visiblename: goaccess
-  version: "1.11"
-  origversion: 1:1.11-1
-  status: outdated
-  maintainers:
-    - terceiro@debian.org
-    - ctaylor@debian.org
-  categories:
-    - utils
 - repo: liguros_stable
   srcname: net-analyzer/goaccess
   visiblename: net-analyzer/goaccess
@@ -1210,19 +1120,6 @@
     - matt@ederoyd.co.uk
   licenses:
     - MIT
-- repo: ubuntu_16_04
-  subrepo: xenial/universe
-  srcname: goaccess
-  binnames:
-    - goaccess
-  visiblename: goaccess
-  version: 0.9.4
-  origversion: 1:0.9.4-1build1
-  status: outdated
-  maintainers:
-    - ctaylor@debian.org
-  categories:
-    - universe/utils
 - repo: nix_unstable
   srcname: goaccess
   visiblename: goaccess
@@ -1235,6 +1132,29 @@
     - luochen1990@gmail.com
   licenses:
     - MIT
+- repo: openbsd
+  srcname: www/goaccess
+  binname: goaccess
+  visiblename: www/goaccess
+  version: "1.12"
+  origversion: 1.12p0
+  status: newest
+  summary: realtime console web log analyzer
+  maintainers:
+    - kirby@openbsd.org
+  categories:
+    - www
+- repo: openindiana
+  subrepo: hipster
+  srcname: goaccess
+  binname: web/goaccess
+  visiblename: goaccess
+  version: 1.4.3
+  origversion: null
+  status: outdated
+  summary: GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+  categories:
+    - Web Services/Application and Web Servers
 - repo: openmamba
   subrepo: base
   srcname: goaccess
@@ -1367,7 +1287,7 @@
   categories:
     - utils
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: goaccess
   binnames:
     - goaccess
@@ -1381,7 +1301,7 @@
   categories:
     - utils
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: goaccess
   binnames:
     - goaccess
@@ -1462,6 +1382,62 @@
   maintainers:
     - ctaylor@debian.org
     - terceiro@debian.org
+  categories:
+    - utils
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: goaccess
+  binnames:
+    - goaccess
+  visiblename: goaccess
+  version: 1.9.3
+  origversion: 1:1.9.3-1+deb13u1
+  status: outdated
+  maintainers:
+    - terceiro@debian.org
+    - ctaylor@debian.org
+  categories:
+    - utils
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: goaccess
+  binnames:
+    - goaccess
+  visiblename: goaccess
+  version: "1.7"
+  origversion: 1:1.7-1
+  status: outdated
+  maintainers:
+    - ctaylor@debian.org
+    - terceiro@debian.org
+  categories:
+    - utils
+- repo: raspbian_stable
+  subrepo: main
+  srcname: goaccess
+  binnames:
+    - goaccess
+  visiblename: goaccess
+  version: 1.9.3
+  origversion: 1:1.9.3-1+deb13u1
+  status: outdated
+  maintainers:
+    - terceiro@debian.org
+    - ctaylor@debian.org
+  categories:
+    - utils
+- repo: raspbian_testing
+  subrepo: main
+  srcname: goaccess
+  binnames:
+    - goaccess
+  visiblename: goaccess
+  version: 1.9.4
+  origversion: 1:1.9.4-1
+  status: outdated
+  maintainers:
+    - terceiro@debian.org
+    - ctaylor@debian.org
   categories:
     - utils
 - repo: rosa_2019_1
@@ -1547,6 +1523,19 @@
   visiblename: goaccess
   version: "0.6"
   origversion: 1:0.6-1
+  status: outdated
+  maintainers:
+    - ctaylor@debian.org
+  categories:
+    - universe/utils
+- repo: ubuntu_16_04
+  subrepo: xenial/universe
+  srcname: goaccess
+  binnames:
+    - goaccess
+  visiblename: goaccess
+  version: 0.9.4
+  origversion: 1:0.9.4-1build1
   status: outdated
   maintainers:
     - ctaylor@debian.org

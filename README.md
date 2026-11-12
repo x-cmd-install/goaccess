@@ -32,7 +32,7 @@ Total: **39,352** lines of code across **104** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 21,129 · **Forks**: 1,212 · **Open issues**: 2,470 · **Contributors**: 168
+- **Stars**: 21,130 · **Forks**: 1,212 · **Open issues**: 2,470 · **Contributors**: 168
 
 ## Totals (cumulative)
 
@@ -42,16 +42,16 @@ Total: **39,352** lines of code across **104** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 3 | 0 | 4 | 1 | 12 |
-| last60d | 2026-09-12 | 0 | 3 | 0 | 7 | 3 | 21 |
-| 90d | 2026-08-13 | 0 | 3 | 1 | 9 | 4 | 60 |
-| last180d | 2026-05-15 | 0 | 9 | 1 | 20 | 12 | 83 |
-| 360d | 2025-11-16 | 0 | 14 | 1 | 45 | 19 | 163 |
-| last720d | 2024-11-21 | 0 | 31 | 3 | 107 | 55 | 287 |
+| 30d | 2026-10-13 | 0 | 3 | 0 | 4 | 1 | 12 |
+| last60d | 2026-09-13 | 0 | 3 | 0 | 7 | 3 | 21 |
+| 90d | 2026-08-14 | 0 | 3 | 1 | 9 | 4 | 60 |
+| last180d | 2026-05-16 | 0 | 9 | 1 | 20 | 12 | 83 |
+| 360d | 2025-11-17 | 0 | 14 | 1 | 45 | 19 | 163 |
+| last720d | 2024-11-22 | 0 | 31 | 3 | 107 | 55 | 287 |
 
 ## Distribution status
 
-Reported by **131** distros on [repology.org](https://repology.org/project/goaccess). **28** are ✅ on the latest upstream release, **91** are ⚠️ on an older version.
+Reported by **130** distros on [repology.org](https://repology.org/project/goaccess). **28** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -77,4 +77,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:46:04Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:51:08Z._

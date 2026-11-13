@@ -14,11 +14,11 @@ x install goaccess
 
 ## Code insight
 
-Total: **39,352** lines of code across **104** files in the top 5 languages.
+Total: **39,358** lines of code across **104** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 30,000 | 6,330 | 5,396 | 47 |
+| C | 30,006 | 6,330 | 5,396 | 47 |
 | JavaScript | 3,535 | 370 | 637 | 6 |
 | CHeader | 3,397 | 1,785 | 635 | 47 |
 | Css | 1,890 | 62 | 307 | 3 |
@@ -36,18 +36,18 @@ Total: **39,352** lines of code across **104** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 352 · **Open PRs**: 11 · **Closed issues**: 2032 · **Open issues**: 438 · **Commits**: 4526
+- **Releases**: 0 · **Merged PRs**: 352 · **Open PRs**: 11 · **Closed issues**: 2032 · **Open issues**: 438 · **Commits**: 4528
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 3 | 0 | 4 | 1 | 12 |
-| last60d | 2026-09-13 | 0 | 3 | 0 | 7 | 3 | 21 |
-| 90d | 2026-08-14 | 0 | 3 | 1 | 9 | 4 | 60 |
-| last180d | 2026-05-16 | 0 | 9 | 1 | 20 | 12 | 83 |
-| 360d | 2025-11-17 | 0 | 14 | 1 | 45 | 19 | 163 |
-| last720d | 2024-11-22 | 0 | 31 | 3 | 107 | 55 | 287 |
+| 30d | 2026-10-14 | 0 | 2 | 0 | 4 | 1 | 14 |
+| last60d | 2026-09-14 | 0 | 3 | 0 | 6 | 3 | 23 |
+| 90d | 2026-08-15 | 0 | 3 | 1 | 9 | 4 | 62 |
+| last180d | 2026-05-17 | 0 | 9 | 1 | 20 | 12 | 85 |
+| 360d | 2025-11-18 | 0 | 14 | 1 | 45 | 19 | 165 |
+| last720d | 2024-11-23 | 0 | 31 | 3 | 107 | 55 | 289 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:51:08Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:14:41Z._

@@ -32,22 +32,22 @@ Total: **39,358** lines of code across **104** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 21,132 · **Forks**: 1,212 · **Open issues**: 2,470 · **Contributors**: 168
+- **Stars**: 21,134 · **Forks**: 1,212 · **Open issues**: 2,471 · **Contributors**: 168
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 352 · **Open PRs**: 11 · **Closed issues**: 2032 · **Open issues**: 438 · **Commits**: 4528
+- **Releases**: 0 · **Merged PRs**: 352 · **Open PRs**: 11 · **Closed issues**: 2033 · **Open issues**: 438 · **Commits**: 4528
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 2 | 0 | 4 | 1 | 14 |
-| last60d | 2026-09-16 | 0 | 3 | 0 | 6 | 3 | 23 |
-| 90d | 2026-08-17 | 0 | 3 | 1 | 9 | 4 | 62 |
-| last180d | 2026-05-19 | 0 | 9 | 1 | 20 | 11 | 85 |
-| 360d | 2025-11-20 | 0 | 14 | 1 | 44 | 19 | 165 |
-| last720d | 2024-11-25 | 0 | 31 | 3 | 106 | 55 | 289 |
+| 30d | 2026-10-17 | 0 | 1 | 0 | 4 | 1 | 8 |
+| last60d | 2026-09-17 | 0 | 3 | 0 | 7 | 3 | 22 |
+| 90d | 2026-08-18 | 0 | 3 | 1 | 10 | 4 | 57 |
+| last180d | 2026-05-20 | 0 | 9 | 1 | 21 | 10 | 84 |
+| 360d | 2025-11-21 | 0 | 14 | 1 | 44 | 19 | 165 |
+| last720d | 2024-11-26 | 0 | 31 | 3 | 106 | 55 | 288 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:55:00Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:16:35Z._

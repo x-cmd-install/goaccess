@@ -24,6 +24,16 @@ Total: **39,358** lines of code across **104** files in the top 5 languages.
 | Css | 1,890 | 62 | 307 | 3 |
 | Automake | 273 | 12 | 23 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **5.5 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 4/29 approved changesets -- score normalized to 1
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/allinurl/goaccess>
@@ -32,7 +42,7 @@ Total: **39,358** lines of code across **104** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 21,134 · **Forks**: 1,212 · **Open issues**: 2,471 · **Contributors**: 168
+- **Stars**: 21,135 · **Forks**: 1,212 · **Open issues**: 2,471 · **Contributors**: 168
 
 ## Totals (cumulative)
 
@@ -42,31 +52,12 @@ Total: **39,358** lines of code across **104** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 1 | 0 | 4 | 1 | 8 |
-| last60d | 2026-09-17 | 0 | 3 | 0 | 7 | 3 | 22 |
-| 90d | 2026-08-18 | 0 | 3 | 1 | 10 | 4 | 57 |
-| last180d | 2026-05-20 | 0 | 9 | 1 | 21 | 10 | 84 |
-| 360d | 2025-11-21 | 0 | 14 | 1 | 44 | 19 | 165 |
-| last720d | 2024-11-26 | 0 | 31 | 3 | 106 | 55 | 288 |
-
-## Distribution status
-
-Reported by **130** distros on [repology.org](https://repology.org/project/goaccess). **28** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.11` | ⚠️ outdated |
-| Debian 14 | `1.11` | ⚠️ outdated |
-| Debian 13 | `1.9.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.9.4` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.8.1` | ⚠️ outdated |
-| Arch | `1.12` | ✅ latest |
-| Homebrew | `1.12` | ✅ latest |
-| Fedora rawhide | `1.12` | ✅ latest |
-| Nix unstable | `1.12` | ✅ latest |
-| Void | `1.9.3` | ⚠️ outdated |
-| Alpine edge | `1.12` | ✅ latest |
-| openSUSE Tumbleweed | `1.12` | ✅ latest |
+| 30d | 2026-10-18 | 0 | 1 | 0 | 4 | 1 | 8 |
+| last60d | 2026-09-18 | 0 | 3 | 0 | 7 | 3 | 22 |
+| 90d | 2026-08-19 | 0 | 3 | 1 | 10 | 4 | 57 |
+| last180d | 2026-05-21 | 0 | 8 | 1 | 20 | 7 | 84 |
+| 360d | 2025-11-22 | 0 | 14 | 1 | 44 | 19 | 165 |
+| last720d | 2024-11-27 | 0 | 31 | 3 | 106 | 55 | 286 |
 
 ## Improve this data
 
@@ -77,4 +68,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:16:35Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:51:20Z._

@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,135 · **Forks**: 1,212 · **Open issues**: 2,471 · **Contributors**: 168
+- **Stars**: 21,142 · **Forks**: 1,212 · **Open issues**: 2,471 · **Contributors**: 168
 
 ## Totals (cumulative)
 
@@ -52,12 +52,31 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 1 | 0 | 4 | 1 | 8 |
-| last60d | 2026-09-18 | 0 | 3 | 0 | 7 | 3 | 22 |
-| 90d | 2026-08-19 | 0 | 3 | 1 | 10 | 4 | 57 |
-| last180d | 2026-05-21 | 0 | 8 | 1 | 20 | 7 | 84 |
-| 360d | 2025-11-22 | 0 | 14 | 1 | 44 | 19 | 165 |
-| last720d | 2024-11-27 | 0 | 31 | 3 | 106 | 55 | 286 |
+| 30d | 2026-10-20 | 0 | 1 | 0 | 4 | 1 | 8 |
+| last60d | 2026-09-20 | 0 | 3 | 0 | 6 | 3 | 22 |
+| 90d | 2026-08-21 | 0 | 3 | 1 | 10 | 4 | 57 |
+| last180d | 2026-05-23 | 0 | 8 | 1 | 20 | 7 | 84 |
+| 360d | 2025-11-24 | 0 | 14 | 1 | 44 | 19 | 165 |
+| last720d | 2024-11-29 | 0 | 31 | 3 | 106 | 55 | 286 |
+
+## Distribution status
+
+Reported by **130** distros on [repology.org](https://repology.org/project/goaccess). **28** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.11` | ⚠️ outdated |
+| Debian 14 | `1.11` | ⚠️ outdated |
+| Debian 13 | `1.9.3` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.9.4` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.8.1` | ⚠️ outdated |
+| Arch | `1.12` | ✅ latest |
+| Homebrew | `1.12` | ✅ latest |
+| Fedora rawhide | `1.12` | ✅ latest |
+| Nix unstable | `1.12` | ✅ latest |
+| Void | `1.9.3` | ⚠️ outdated |
+| Alpine edge | `1.12` | ✅ latest |
+| openSUSE Tumbleweed | `1.12` | ✅ latest |
 
 ## Improve this data
 
@@ -68,4 +87,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:51:20Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:15:43Z._

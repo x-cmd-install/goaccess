@@ -42,26 +42,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,143 · **Forks**: 1,212 · **Open issues**: 2,471 · **Contributors**: 168
+- **Stars**: 21,144 · **Forks**: 1,212 · **Open issues**: 2,471 · **Contributors**: 168
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 352 · **Open PRs**: 11 · **Closed issues**: 2033 · **Open issues**: 438 · **Commits**: 4528
+- **Releases**: 0 · **Merged PRs**: 352 · **Open PRs**: 11 · **Closed issues**: 2033 · **Open issues**: 438 · **Commits**: 4529
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 1 | 0 | 4 | 1 | 0 |
-| last60d | 2026-09-21 | 0 | 3 | 0 | 6 | 3 | 0 |
-| 90d | 2026-08-22 | 0 | 3 | 0 | 9 | 4 | 0 |
-| last180d | 2026-05-24 | 0 | 8 | 1 | 20 | 7 | 0 |
-| 360d | 2025-11-25 | 0 | 14 | 1 | 44 | 19 | 0 |
-| last720d | 2024-11-30 | 0 | 31 | 3 | 106 | 55 | 286 |
+| 30d | 2026-10-22 | 0 | 1 | 0 | 4 | 1 | 9 |
+| last60d | 2026-09-22 | 0 | 3 | 0 | 6 | 3 | 23 |
+| 90d | 2026-08-23 | 0 | 3 | 0 | 9 | 4 | 58 |
+| last180d | 2026-05-25 | 0 | 8 | 1 | 19 | 7 | 85 |
+| 360d | 2025-11-26 | 0 | 14 | 1 | 44 | 19 | 166 |
+| last720d | 2024-12-01 | 0 | 31 | 3 | 106 | 55 | 287 |
 
 ## Distribution status
 
-Reported by **130** distros on [repology.org](https://repology.org/project/goaccess). **28** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
+Reported by **129** distros on [repology.org](https://repology.org/project/goaccess). **28** are ✅ on the latest upstream release, **89** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:26:34Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:46:44Z._

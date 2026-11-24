@@ -24,16 +24,6 @@ x install goaccess
 | Css | 1,890 | 62 | 307 | 3 |
 | Automake | 273 | 12 | 23 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **5.5 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (1/10) — Found 4/29 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/allinurl/goaccess>
@@ -42,7 +32,7 @@ x install goaccess
 
 ## 流行度
 
-- **Star**: 21,150 · **Fork**: 1,211 · **开放 issue**: 2,471 · **贡献者**: 168
+- **Star**: 21,152 · **Fork**: 1,212 · **开放 issue**: 2,471 · **贡献者**: 168
 
 ## 累计统计
 
@@ -52,12 +42,12 @@ x install goaccess
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 1 | 0 | 1 | 0 | 6 |
-| last60d | 2026-09-24 | 0 | 3 | 0 | 6 | 3 | 19 |
-| 90d | 2026-08-25 | 0 | 3 | 0 | 9 | 4 | 42 |
-| last180d | 2026-05-27 | 0 | 8 | 1 | 19 | 7 | 84 |
-| 360d | 2025-11-28 | 0 | 14 | 1 | 44 | 19 | 166 |
-| last720d | 2024-12-03 | 0 | 31 | 3 | 106 | 55 | 287 |
+| 30d | 2026-10-25 | 0 | 1 | 0 | 1 | 0 | 6 |
+| last60d | 2026-09-25 | 0 | 3 | 0 | 6 | 3 | 19 |
+| 90d | 2026-08-26 | 0 | 3 | 0 | 9 | 4 | 42 |
+| last180d | 2026-05-28 | 0 | 8 | 1 | 19 | 7 | 84 |
+| 360d | 2025-11-29 | 0 | 14 | 1 | 44 | 19 | 166 |
+| last720d | 2024-12-04 | 0 | 31 | 3 | 106 | 55 | 287 |
 
 ## 发行版状态
 
@@ -87,4 +77,4 @@ goaccess 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T10:27:39Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T11:47:05Z._

@@ -24,16 +24,6 @@ Total: **39,358** lines of code across **104** files in the top 5 languages.
 | Css | 1,890 | 62 | 307 | 3 |
 | Automake | 273 | 12 | 23 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **5.5 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (1/10) — Found 4/29 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## Source
 
 - **Upstream**: <https://github.com/allinurl/goaccess>
@@ -42,7 +32,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,150 · **Forks**: 1,211 · **Open issues**: 2,471 · **Contributors**: 168
+- **Stars**: 21,152 · **Forks**: 1,212 · **Open issues**: 2,471 · **Contributors**: 168
 
 ## Totals (cumulative)
 
@@ -52,12 +42,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 1 | 0 | 1 | 0 | 6 |
-| last60d | 2026-09-24 | 0 | 3 | 0 | 6 | 3 | 19 |
-| 90d | 2026-08-25 | 0 | 3 | 0 | 9 | 4 | 42 |
-| last180d | 2026-05-27 | 0 | 8 | 1 | 19 | 7 | 84 |
-| 360d | 2025-11-28 | 0 | 14 | 1 | 44 | 19 | 166 |
-| last720d | 2024-12-03 | 0 | 31 | 3 | 106 | 55 | 287 |
+| 30d | 2026-10-25 | 0 | 1 | 0 | 1 | 0 | 6 |
+| last60d | 2026-09-25 | 0 | 3 | 0 | 6 | 3 | 19 |
+| 90d | 2026-08-26 | 0 | 3 | 0 | 9 | 4 | 42 |
+| last180d | 2026-05-28 | 0 | 8 | 1 | 19 | 7 | 84 |
+| 360d | 2025-11-29 | 0 | 14 | 1 | 44 | 19 | 166 |
+| last720d | 2024-12-04 | 0 | 31 | 3 | 106 | 55 | 287 |
 
 ## Distribution status
 
@@ -87,4 +77,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:27:38Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:47:04Z._

@@ -32,41 +32,22 @@ Total: **39,358** lines of code across **104** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 21,152 · **Forks**: 1,212 · **Open issues**: 2,471 · **Contributors**: 168
+- **Stars**: 21,156 · **Forks**: 1,212 · **Open issues**: 2,472 · **Contributors**: 168
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 352 · **Open PRs**: 11 · **Closed issues**: 2033 · **Open issues**: 438 · **Commits**: 4529
+- **Releases**: 0 · **Merged PRs**: 352 · **Open PRs**: 11 · **Closed issues**: 2034 · **Open issues**: 438 · **Commits**: 4529
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 1 | 0 | 1 | 0 | 6 |
-| last60d | 2026-09-25 | 0 | 3 | 0 | 6 | 3 | 19 |
-| 90d | 2026-08-26 | 0 | 3 | 0 | 9 | 4 | 42 |
-| last180d | 2026-05-28 | 0 | 8 | 1 | 19 | 7 | 84 |
-| 360d | 2025-11-29 | 0 | 14 | 1 | 44 | 19 | 166 |
-| last720d | 2024-12-04 | 0 | 31 | 3 | 106 | 55 | 287 |
-
-## Distribution status
-
-Reported by **129** distros on [repology.org](https://repology.org/project/goaccess). **28** are ✅ on the latest upstream release, **89** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.11` | ⚠️ outdated |
-| Debian 14 | `1.11` | ⚠️ outdated |
-| Debian 13 | `1.9.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.9.4` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.8.1` | ⚠️ outdated |
-| Arch | `1.12` | ✅ latest |
-| Homebrew | `1.12` | ✅ latest |
-| Fedora rawhide | `1.12` | ✅ latest |
-| Nix unstable | `1.12` | ✅ latest |
-| Void | `1.9.3` | ⚠️ outdated |
-| Alpine edge | `1.12` | ✅ latest |
-| openSUSE Tumbleweed | `1.12` | ✅ latest |
+| 30d | 2026-10-26 | 0 | 1 | 0 | 1 | 0 | 6 |
+| last60d | 2026-09-26 | 0 | 3 | 0 | 6 | 3 | 19 |
+| 90d | 2026-08-27 | 0 | 3 | 0 | 9 | 4 | 42 |
+| last180d | 2026-05-29 | 0 | 8 | 1 | 19 | 7 | 84 |
+| 360d | 2025-11-30 | 0 | 14 | 1 | 44 | 19 | 166 |
+| last720d | 2024-12-05 | 0 | 31 | 3 | 105 | 55 | 287 |
 
 ## Improve this data
 
@@ -77,4 +58,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:47:04Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:16:59Z._

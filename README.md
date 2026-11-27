@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,156 · **Forks**: 1,213 · **Open issues**: 2,472 · **Contributors**: 168
+- **Stars**: 21,158 · **Forks**: 1,213 · **Open issues**: 2,472 · **Contributors**: 169
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 352 · **Open PRs**: 11 · **Closed issues**: 2034 · **Open issues**: 438 · **Commits**: 4529
+- **Releases**: 0 · **Merged PRs**: 353 · **Open PRs**: 11 · **Closed issues**: 2034 · **Open issues**: 438 · **Commits**: 4530
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 1 | 0 | 1 | 0 | 6 |
-| last60d | 2026-09-27 | 0 | 3 | 0 | 5 | 3 | 19 |
-| 90d | 2026-08-28 | 0 | 3 | 0 | 9 | 4 | 42 |
-| last180d | 2026-05-30 | 0 | 7 | 1 | 19 | 7 | 84 |
-| 360d | 2025-12-01 | 0 | 14 | 1 | 44 | 19 | 166 |
-| last720d | 2024-12-06 | 0 | 31 | 3 | 105 | 55 | 287 |
+| 30d | 2026-10-28 | 0 | 2 | 0 | 1 | 0 | 7 |
+| last60d | 2026-09-28 | 0 | 4 | 0 | 5 | 2 | 20 |
+| 90d | 2026-08-29 | 0 | 4 | 0 | 8 | 3 | 43 |
+| last180d | 2026-05-31 | 0 | 8 | 1 | 19 | 7 | 85 |
+| 360d | 2025-12-02 | 0 | 15 | 1 | 44 | 19 | 167 |
+| last720d | 2024-12-07 | 0 | 31 | 3 | 104 | 55 | 288 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for goaccess lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:15:59Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:47:16Z._

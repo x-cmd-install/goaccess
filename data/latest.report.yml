@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:46:53Z
+  collectedAt: 2026-11-28T09:13:37Z
 timeline:
   created: 2013-07-14
   lastCommit: 2026-11-26
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 21158
+  star: 21161
   watcher: 292
   fork: 1213
   release: 0
@@ -35,7 +35,7 @@ language:
 totalBytes: 1663011
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 2
     openPR: 0
@@ -43,7 +43,7 @@ recent:
     openIssue: 0
     commit: 7
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 4
     openPR: 0
@@ -51,7 +51,7 @@ recent:
     openIssue: 2
     commit: 20
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 4
     openPR: 0
@@ -59,23 +59,23 @@ recent:
     openIssue: 3
     commit: 43
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 8
     openPR: 1
-    closedIssue: 19
+    closedIssue: 18
     openIssue: 7
     commit: 85
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 15
     openPR: 1
-    closedIssue: 44
-    openIssue: 19
+    closedIssue: 43
+    openIssue: 18
     commit: 167
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 31
     openPR: 3
@@ -91,7 +91,7 @@ total:
   commit: 4530
 ---
 path: /home/runner/.x-repo/github.com/allinurl/goaccess
-collectedAt: 2026-11-27T09:46:56Z
+collectedAt: 2026-11-28T09:13:40Z
 loc:
   C:
     code: 30006
